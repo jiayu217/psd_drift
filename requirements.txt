@@ -1,0 +1,6 @@
+astropy>=6.1.7
+lalsuite>=7.26.1
+numpy>=1.26.4
+scipy>=1.15.3
+tqdm>=4.67.1
+pycbc>=2.8.3
